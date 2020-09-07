@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1565727156 source:c:\users\dell\desktop\paint_project\figures.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+	"figures.h"
+	"mainFunctions.h"
+
+1565727470 c:\users\dell\desktop\paint_project\screen.h
+	<windows.h>
+	"mouse_and_keyboard.h"
+
+1565713984 c:\users\dell\desktop\paint_project\mouse.h
+	<windows.h>
+
+1565727587 c:\users\dell\desktop\paint_project\figures.h
+
+1565727344 source:c:\users\dell\desktop\paint_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"figures.h"
+	"mouse_and_keyboard.h"
+
+1565720590 source:c:\users\dell\desktop\paint_project\mouse.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse.h"
+
+1565727156 source:c:\users\dell\desktop\paint_project\screen.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+	"figures.h"
+	"mainFunctions.h"
+
+1565460307 source:c:\users\dell\desktop\paint_project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse.h"
+	"figures.h"
+
+1565727586 c:\users\dell\desktop\paint_project\mouse_and_keyboard.h
+	<windows.h>
+	"mainFunctions.h"
+
+1565727659 c:\users\dell\desktop\paint_project\mainfunctions.h
+
+1565727156 source:c:\users\dell\desktop\paint_project\mainfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+	"figures.h"
+	"mainFunctions.h"
+
+1565726898 source:c:\users\dell\desktop\paint_project\mouse_and_keyboard.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+
+1565974839 source:c:\users\dell\desktop\c\tasks ucoders\paint_project\figures.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+	"figures.h"
+	"mainFunctions.h"
+
+1565974862 c:\users\dell\desktop\c\tasks ucoders\paint_project\screen.h
+	<windows.h>
+	"mouse_and_keyboard.h"
+
+1565974929 c:\users\dell\desktop\c\tasks ucoders\paint_project\mouse_and_keyboard.h
+	<windows.h>
+	"mainFunctions.h"
+
+1565974880 c:\users\dell\desktop\c\tasks ucoders\paint_project\mainfunctions.h
+
+1565974848 c:\users\dell\desktop\c\tasks ucoders\paint_project\figures.h
+
+1565975108 source:c:\users\dell\desktop\c\tasks ucoders\paint_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"figures.h"
+	"mouse_and_keyboard.h"
+
+1565973230 source:c:\users\dell\desktop\c\tasks ucoders\paint_project\mainfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+	"figures.h"
+	"mainFunctions.h"
+
+1565963905 source:c:\users\dell\desktop\c\tasks ucoders\paint_project\mouse_and_keyboard.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+
+1565972843 source:c:\users\dell\desktop\c\tasks ucoders\paint_project\screen.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"screen.h"
+	"mouse_and_keyboard.h"
+	"figures.h"
+	"mainFunctions.h"
+
